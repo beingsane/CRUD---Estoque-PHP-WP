@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: 21-Jan-2016 às 05:11
+-- Generation Time: 21-Jan-2016 às 05:14
 -- Versão do servidor: 5.6.17
 -- PHP Version: 5.5.12
 
@@ -19,6 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `estoque`
 --
+CREATE DATABASE IF NOT EXISTS `estoque` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `estoque`;
 
 -- --------------------------------------------------------
 
