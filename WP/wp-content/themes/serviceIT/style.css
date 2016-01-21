@@ -1,0 +1,21 @@
+@charset "utf-8";
+/*
+Theme Name: Default VHS's Theme
+Theme URI: http://vhenrique.com
+Description: Service IT test
+Version: 1.0
+Tags: 
+
+Author: Vitor Henrique da Silva
+Author URI: http://vhenrique.com
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+Text Domain: lang
+*/
+
+@import url('assets/css/bootstrap.min.css');
+@import url('assets/css/bootstrap-theme.min.css');
+@import url('assets/css/ie10-viewport-bug-workaround.css');
+@import url('assets/css/theme.css');
